@@ -35,3 +35,15 @@ A modern, responsive, and secure quiz application built with **React.js**, **Tai
 ### Install Dependencies
 npm install
 
+### Run the Development Server
+npm run dev
+
+The app will run on http://localhost:5173 (Vite default)
+
+### 🧠 Tech Stack
+React.js (Vite)
+Tailwind CSS
+React Context API
+React Lazy & Suspense
+Web APIs: getUserMedia, fullscreen, permissions
+
