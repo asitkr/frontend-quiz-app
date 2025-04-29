@@ -31,7 +31,7 @@ A modern, responsive, and secure quiz application built with **React.js**, **Tai
 
 ![image](https://github.com/user-attachments/assets/a56990ef-b9d1-4d7d-9eb2-2c1c40a0f4d1)
 
-![Screenshot (1)](https://github.com/user-attachments/assets/a37bc3ca-d544-4f47-96ee-15f14e874fbd)
+![Screenshot (1)](https://github.com/user-attachments/assets/d791f1fe-8c7c-42cd-b687-f0f48c38a34d)
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/36a784b2-4f75-4c65-bc51-b8ca460a4e8e)
 
