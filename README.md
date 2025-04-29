@@ -32,6 +32,6 @@ A modern, responsive, and secure quiz application built with **React.js**, **Tai
 > Make sure the image `app-launch.png` is in the `public/assets` folder or hosted online if using Markdown on GitHub.
 
 ## 🚀 Getting Started
-###Install Dependencies
+### Install Dependencies
 npm install
 
