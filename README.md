@@ -50,10 +50,30 @@ The app will run on http://localhost:5173 (Vite default)
 
 
 ### 📁 Project Structure
-<pre><code>``` src/ ├── components/ │ ├── Timer.jsx │ ├── Question.jsx │ ├── WebcamFeed.jsx │ └── FullscreenModal.jsx ├── context/ │ └── QuizContext.jsx ├── pages/ │ ├── QuizPage.jsx │ ├── ReviewPage.jsx │ └── ResultPage.jsx ├── App.jsx └── main.jsx ```</code></pre>
-
+```
+src/
+├── components/
+│   ├── Timer.jsx
+│   ├── Question.jsx
+│   ├── WebcamFeed.jsx
+│   └── FullscreenModal.jsx
+├── context/
+│   └── QuizContext.jsx
+├── pages/
+│   ├── QuizPage.jsx
+│   ├── ReviewPage.jsx
+│   └── ResultPage.jsx
+├── App.jsx
+└── main.jsx
+```
 
 ### 🔐 Permissions
 - **Camera: Required to monitor the user during the quiz.
 - **Fullscreen: Enforced during quiz to simulate exam conditions.
+
+### 🧪 Future Improvements
+- **📷 Screenshot prevention (where supported)
+- **🎥 Record webcam during quiz
+- **💾 Save user responses in a backend
+- **📊 Admin dashboard to manage quizzes and analytics
 
