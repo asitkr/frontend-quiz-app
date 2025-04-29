@@ -41,9 +41,32 @@ npm run dev
 The app will run on http://localhost:5173 (Vite default)
 
 ### 🧠 Tech Stack
-React.js (Vite)
-Tailwind CSS
-React Context API
-React Lazy & Suspense
-Web APIs: getUserMedia, fullscreen, permissions
+
+- **React.js** (Vite)
+- **Tailwind CSS**
+- **React Context API**
+- **React Lazy & Suspense**
+- **Web APIs**: `getUserMedia`, `fullscreen`, `permissions`
+
+
+### 📁 Project Structure
+src/
+├── components/
+│   ├── Timer.jsx
+│   ├── Question.jsx
+│   ├── WebcamFeed.jsx
+│   └── FullscreenModal.jsx
+├── context/
+│   └── QuizContext.jsx
+├── pages/
+│   ├── QuizPage.jsx
+│   ├── ReviewPage.jsx
+│   └── ResultPage.jsx
+├── App.jsx
+└── main.jsx
+
+
+### 🔐 Permissions
+- ** Camera: Required to monitor the user during the quiz.
+- ** Fullscreen: Enforced during quiz to simulate exam conditions.
 
