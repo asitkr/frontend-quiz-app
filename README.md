@@ -12,4 +12,24 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
+# 🎓 AI-Powered Quiz App
+
+A modern, responsive, and secure quiz application built with **React.js**, **Tailwind CSS**, and **Context API**. This app offers a full-screen quiz experience, includes webcam monitoring, a countdown timer, fullscreen enforcement, and permission handling for a proctor-like environment.
+
+## 🌟 Features
+
+- 📸 **Webcam Feed** — Requires camera access to start the quiz, detects permission revocation
+- 🕒 **Countdown Timer** — Each question has a timer, and questions auto-progress on timeout
+- 🖥️ **Fullscreen Mode** — Quiz starts in fullscreen, with detection for exit and re-entry
+- 🔐 **Security Modal** — Warns users when they try to exit fullscreen
+- ✅ **Review & Result Pages** — Review all answers before submission and see results at the end
+- ⚡ **Lazy Loading** — Components like timer, questions, results, and webcam are lazy-loaded for performance
+- 💡 **Permission Handling** — Smart handling of camera permission revokes and retries
+
+## 🖼️ App Launch Screenshot
 ![image](https://github.com/user-attachments/assets/1088ae71-57a4-4388-ae7a-b7ea4a1a3062)
+
+> Make sure the image `app-launch.png` is in the `public/assets` folder or hosted online if using Markdown on GitHub.
+
+## 🚀 Getting Started
+
