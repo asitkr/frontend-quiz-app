@@ -42,12 +42,12 @@ A modern, responsive, and secure quiz application built with **React.js**, **Tai
 
 ## 🚀 Getting Started
 ### Install Dependencies
-npm install
+``` npm install ```
 
 ### Run the Development Server
-npm run dev
+``` npm run dev ```
 
-The app will run on http://localhost:5173 (Vite default)
+The app will run on ``` http://localhost:5173 ``` (Vite default)
 
 ### 🧠 Tech Stack
 
