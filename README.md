@@ -68,12 +68,12 @@ src/
 ```
 
 ### 🔐 Permissions
-- **Camera: Required to monitor the user during the quiz.
-- **Fullscreen: Enforced during quiz to simulate exam conditions.
+- **Camera: Required to monitor the user during the quiz.**
+- **Fullscreen: Enforced during quiz to simulate exam conditions.**
 
 ### 🧪 Future Improvements
-- **Screenshot prevention (where supported)
-- **Record webcam during quiz
-- **Save user responses in a backend
-- **Admin dashboard to manage quizzes and analytics
+- **Screenshot prevention (where supported)**
+- **Record webcam during quiz**
+- **Save user responses in a backend**
+- **Admin dashboard to manage quizzes and analytics**
 
